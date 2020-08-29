@@ -1,6 +1,6 @@
 # Point Cloud Library
 
-此代码主要用于Julyedu(https://www.julyedu.com/ ) 的教学工作，由julyedu的老师和同学们共同维护，主要用于基于RGBD相机的三维重建工作。
+此代码主要用于Julyedu(https://www.julyedu.com/ ) 的教学工作，由julyedu的老师和同学们共同维护，代码是在pcl（https://github.com/PointCloudLibrary/pcl) 开源算法框架上修改而成，主要用于基于RGBD相机的三维重建工作。
 
 Website
 -------
