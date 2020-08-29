@@ -1,15 +1,6 @@
 # Point Cloud Library
 
-<p align="center"><img src="pcl.png" height="100"></p>
-
-[![Release][release-image]][releases]
-[![License][license-image]][license]
-
-[release-image]: https://img.shields.io/badge/release-1.11.1-green.svg?style=flat
-[releases]: https://github.com/PointCloudLibrary/pcl/releases
-
-[license-image]: https://img.shields.io/badge/license-BSD-green.svg?style=flat
-[license]: https://github.com/PointCloudLibrary/pcl/blob/master/LICENSE.txt
+此代码主要用于Julyedu(https://www.julyedu.com/)的教学工作，由julyedu的老师和同学们共同维护，主要用于基于RGBD相机的三维重建工作。
 
 Website
 -------
